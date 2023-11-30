@@ -2,9 +2,11 @@
 SecureCrypt: Secure Document Sharing Platform
 SecureCrypt is a cutting-edge solution designed to address the critical need for secure document sharing in today's digital landscape. It combines robust encryption techniques with a user-friendly interface, leveraging the File Transfer Protocol (FTP) for efficient and secure data transmission.
 
-Features
+Features:
 Hybrid Encryption System: Utilizes AES, DES, Blowfish (symmetric encryption), and RSA (asymmetric encryption) to ensure the highest level of security for document transmission.
+
 Model-View-Presenter Architecture: Enhances scalability, maintainability, and organization of the application.
+
 Intuitive Graphical User Interface: Simplifies complex encryption and file transfer processes, making it accessible to users of varying technical backgrounds.
 
 
