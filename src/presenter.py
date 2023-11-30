@@ -41,7 +41,7 @@ def _openExplorer(filePath: str) -> None:
     if platform.system() == "Windows":
         subprocess.Popen(["explorer", "/select,", filePath])
     else:
-        subprocess.Popen(["xdg-open", filePath])
+        subprocess.Popen(["open", filePath]) #Changed code from xdg-open to open
 
 
 class FTPClientGui(Protocol):
